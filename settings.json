@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "recavern.aternos.me",
+    "ip": "madtom.aternos.host",
     "port": 34537,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Building Competition is coming soon!",
+        "join oir Discord Server!",
+        "Nether is Not yet open!"
       ]
     },
     "chat-log": true,
